@@ -1,6 +1,8 @@
 # 🌿 Plant Database Telegram Bot
 
-A robust, TypeScript-based Telegram bot for managing a local image database of plant species. Optimized for Termux and home server environments.
+## This Bot is part of the [Plant Guardian project](https://github.com/MikeCheek/plant_guardian)
+
+A TypeScript-based Telegram bot for managing a local image database of plant species. Optimized for Termux and home server environments.
 
 ---
 
